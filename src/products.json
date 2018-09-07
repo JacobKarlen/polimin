@@ -1,0 +1,27 @@
+{
+	"products": {
+		"category1": {
+			"product1": {
+				"image": "https://www.byggfaktadocu.se/komproment/naturskiffer-zappa/produkt-files/90.png",
+				"imageTitle": "Tegelvägg",
+				"headLine": "Tegel och keramik",
+
+			},
+			"product2": {
+
+			}
+		},
+
+		"category2": {
+
+		},
+
+		"category3": {
+
+		},
+
+		"category4": {
+
+		}
+	}
+}
